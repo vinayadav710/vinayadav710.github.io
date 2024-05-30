@@ -2,6 +2,9 @@ document.addEventListener("DOMContentLoaded", function(){ window.addEventListene
 	UAGBButtonChild.init( '.uagb-block-f14943e3' );
 });
 window.addEventListener( 'load', function() {
+	UAGBButtonChild.init( '.uagb-block-e4145eeb' );
+});
+window.addEventListener( 'load', function() {
 	UAGBButtonChild.init( '.uagb-block-76094026' );
 });
 window.addEventListener( 'load', function() {
