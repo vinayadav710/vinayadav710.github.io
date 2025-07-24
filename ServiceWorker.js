@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-My project-0.1.0";
+const cacheName = "DefaultCompany-My project-1.0";
 const contentToCache = [
     "Build/build.loader.js",
     "Build/build.framework.js",
